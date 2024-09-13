@@ -1,4 +1,3 @@
-# Customer-Segmentation-and-Recommendation-System
 # Customer Segmentation and Recommendation System
 
 This project presents a strategic approach combining customer segmentation with a recommendation system to drive sales and elevate customer satisfaction. We utilized K-Means clustering to segment customers and applied Neural Collaborative Filtering (NCF) to provide personalized recommendations based on purchasing behaviors.
